@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.whl
+
+# Data and generated media
+outputs/
+figures/
+videos/
+*.mp4
+*.avi
+*.mov
+*.npy
+*.npz
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: Underwater Robot
+authors:
+  - family-names: Zhang
+    given-names: Shucheng
+version: 0.1.0
+message: "If you use this repository, please cite it as a software artifact."
