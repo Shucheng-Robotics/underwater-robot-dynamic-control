@@ -252,11 +252,6 @@ pytest -q
 
 The tests check package import, quaternion utilities, derivative shape, short integration, and legacy alias compatibility.
 
-## Suggested GitHub topics
-
-```text
-robotics underwater-robot marine-robotics bio-inspired-robot hydrodynamics dynamics simulation python scipy quaternion auv biomimetic-robot
-```
 
 ## Roadmap
 
@@ -268,4 +263,4 @@ robotics underwater-robot marine-robotics bio-inspired-robot hydrodynamics dynam
 
 ## License
 
-MIT License.
+License.
