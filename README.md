@@ -1,4 +1,5 @@
 # Underwater Robot
+Please cite: Zhang S, Xie X, Sui Y, et al. Dynamic modeling and stiffness optimization for a manta ray-inspired robot[J]. International Journal of Mechanical Sciences, 2026: 111417. 
 
 A reusable Python dynamics library for underwater robot research and portfolio demonstration.  The current implementation provides a generic rigid-body underwater robot model with two prescribed oscillating fins/appendages, Morison-type hydrodynamic loading, quaternion attitude integration, SciPy-based simulation utilities, plotting tools, examples, tests, and documentation.
 
